@@ -211,8 +211,10 @@ This SQL-based project aims to analyze and monitor the key performance metrics o
 3. **Modify Filters**: You can modify the queries to apply filters, for instance, by loan grade or purpose, to narrow down your results.
 
 ## Conclusion:
-This project provides a comprehensive overview of a bank’s lending activities. By using SQL queries to calculate key metrics, it offers a detailed analysis of loan performance, borrower behavior, and risk assessment. The insights gained from this project can support data-driven decision-making, helping banks optimize their lending strategies and manage loan portfolios more effectively.
+This project provides a comprehensive overview of a bankâ€™s lending activities. By using SQL queries to calculate key metrics, 
+it offers a detailed analysis of loan performance, borrower behavior, and risk assessment. 
+The insights gained from this project can support data-driven decision-making, helping banks optimize their lending strategies 
+and manage loan portfolios more effectively.
 
-## License:
-This project is licensed under the MIT License.
+
 
