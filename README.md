@@ -1,5 +1,5 @@
 # Bank Loan Report Project
-https://github.com/Ashishkr24/SqlBankLoan_Report/blob/81d4a21ccd646d0616c35fd0179fbd1cdc98512f/Bank_loan.jpg
+
 
 ## Project Overview
 The **Bank Loan Report** project is an SQL-based data analysis solution designed to evaluate key performance indicators (KPIs) related to loan applications, funded amounts, repayments, interest rates, and loan status. This project allows banks to monitor loan portfolio performance and gain actionable insights for decision-making.
